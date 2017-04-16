@@ -10,9 +10,3 @@ categories: 码字
 研究了几天jekyll，忽然又发现了hexo似乎更专业？
 
 暂时先用着这个，得空再研究hexo看咋用，毕竟主要是写字的，能写出字来就算满足最基本要求了。
-
-
-```python
-import os
-def hello:
-  print "hello, world"
